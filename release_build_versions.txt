@@ -104,3 +104,9 @@ tilde 1.1.2
 tilde latest
 
 opkssh latest
+
+newt latest
+
+pangolin latest
+
+proton-pass-cli latest
